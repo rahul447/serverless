@@ -845,6 +845,11 @@
       "from": "delayed-stream@>=1.0.0 <1.1.0",
       "resolved": "https://registry.npmjs.org/delayed-stream/-/delayed-stream-1.0.0.tgz"
     },
+    "dependency-graph": {
+      "version": "0.5.0",
+      "from": "dependency-graph@>=0.5.0 <0.6.0",
+      "resolved": "https://registry.npmjs.org/dependency-graph/-/dependency-graph-0.5.0.tgz"
+    },
     "detect-indent": {
       "version": "4.0.0",
       "from": "detect-indent@>=4.0.0 <5.0.0",
