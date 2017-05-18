@@ -3562,6 +3562,11 @@
       "resolved": "https://registry.npmjs.org/tr46/-/tr46-0.0.3.tgz",
       "dev": true
     },
+    "traverse": {
+      "version": "0.6.6",
+      "from": "traverse@latest",
+      "resolved": "https://registry.npmjs.org/traverse/-/traverse-0.6.6.tgz"
+    },
     "trim-repeated": {
       "version": "1.0.0",
       "from": "trim-repeated@>=1.0.0 <2.0.0",
